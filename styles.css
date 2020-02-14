@@ -1,0 +1,52 @@
+html {
+    background-color: #E9E6FF;
+    font-family: "Arial", sans-serif;
+}
+
+label {
+    color: #4F6367
+}
+
+h2, h1 {
+    color: #4F6367
+}
+
+p {
+  color: #648182
+}
+
+table {
+    width: 100%;
+}
+
+form, h1 {
+    text-align: center;
+
+}
+
+tr td {
+    border-bottom:1pt solid #648182;
+}
+
+footer {
+    position:fixed;
+    bottom:0;
+    text-align: center;
+    width: 100%;
+    background-color: #E9E6FF;
+    padding-top: 10px;
+}
+
+.date {
+    color: #4F6367;
+    font-size: 1vw;
+}
+
+.data {
+    font-size: 1vw;
+}
+
+#weatherResults, #forecastResults {
+    width: 100%;
+    text-align: center;
+}
